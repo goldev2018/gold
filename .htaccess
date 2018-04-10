@@ -1,0 +1,5 @@
+
+RewriteEngine On
+
+
+RewriteRule ^Gold?$ index.php
