@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>GOLD | Great Ocean Lake Development & Management Corporation</title>
-  
+  <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
   <!-- Bootstrap -->
   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="assets/css/jasny-bootstrap.min.css">
@@ -23,11 +23,6 @@
   <link rel="stylesheet" type="text/css" href="assets/extras/owl/owl.carousel.css">
   <link rel="stylesheet" type="text/css" href="assets/extras/owl/owl.theme.css">
   <link rel="stylesheet" type="text/css" href="assets/extras/owl/owl.transitions.css">
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!--[if lt IE 9]>
-                <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-                <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-              <![endif]-->
 <?php include 'modal.php'; ?>
 </head>
 <body>
@@ -66,9 +61,6 @@
         <div class="col-md-12">
           <div class="banner text-center">
             <h1 class="wow fadeInDown animated" data-wow-delay=".8s">Great Ocean Lake Development & Management Corporation</h1>
-<!--             <h2 class="wow fadeInDown animated" data-wow-delay=".6s">Passionate Web developer, WordPressian & GEEK ;)</h2>
-            <a href="#" class="btn btn-border lg wow fadeInLeft animated" data-wow-delay="1.0s">Hire Me</a>
-            <a href="#" class="btn btn-common lg wow fadeInRight animated" data-wow-delay="1.0s">Learn More</a> -->
             <div class="scroll">
               <a href="#works"><i class="fa fa-angle-down wow fadeInUp animated" data-wow-delay="1.2s"></i></a>
           </div>
@@ -154,41 +146,7 @@
     </div>
   </section>
   <!-- Testimonial Section End -->
-
-  <!-- Clients Section Start -->
-<!--   <section id="clients">
-    <div class="container">
-      <div class="row">
-        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><span>Ongoing Project</span></h1>
-        <div id="clients-carousel" class="owl-carousel owl-theme">
-          <div class="item wow fadeInLeft animated" data-wow-delay=".9s">
-            <a href="#"><img src="assets/img/clients/img1.png" alt=""></a>
-          </div>
-          <div class="item wow fadeInLeft animated" data-wow-delay=".9s">
-            <a href="#"><img src="assets/img/clients/img2.png" alt=""></a>
-          </div>
-          <div class="item wow fadeInRight animated" data-wow-delay=".9s">
-            <a href="#"><img src="assets/img/clients/img3.png" alt=""></a>
-          </div>
-          <div class="item wow fadeInRight animated" data-wow-delay=".9s">
-            <a href="#"><img src="assets/img/clients/img4.png" alt=""></a>
-          </div>
-          <div class="item wow fadeIn animated">
-            <a href="#"><img src="assets/img/clients/img5.png" alt=""></a>
-          </div>
-          <div class="item wow fadeIn animated">
-            <a href="#"><img src="assets/img/clients/img6.png" alt=""></a>
-          </div>
-          <div class="item wow fadeIn animated">
-            <a href="#"><img src="assets/img/clients/img7.png" alt=""></a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <!-- Clients Section Start -->
-
-
+  
     <!-- Blog Section Start -->
   <section id="blog">
     <div class="container">
