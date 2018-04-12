@@ -199,10 +199,10 @@
             <img src="image/ghe_phil.jpg" alt="" style=" height:360px; width:400px;">
             <div class="large">
               <a class="title" href="#">THE GRAND EXCELSIOR HOTEL – PHILIPPINES</a>
-              <p class="elipsis">We aim to introduce the first eminent Five Star Luxury Resort establishment in Pagbilao. We are engage to provide the best luxurious resort in Quezon with specifically designed and well-developed modern facilities. 
+              <div class="elipsis3">We aim to introduce the first eminent Five Star Luxury Resort establishment in Pagbilao. We are engage to provide the best luxurious resort in Quezon with specifically designed and well-developed modern facilities. 
 Within the coast of Pagbilao, Quezon, the Grand Hotel Excelsior will provide the best accommodation in the South with its fusion of Mediterranean and Asian design concept adopting the system of The Grand Hotel Excelsior Malta.
 The hotel will focus on helping the community to increase its tourism industry and seeking to take advantage to be one of the tourist destination in the Philippines.
-</p>
+</div>
               <a href="#!" data-modal="modal_ghePH" class="button">Read More</a>
             </div>
           </div>
@@ -212,12 +212,11 @@ The hotel will focus on helping the community to increase its tourism industry a
             <img src="image/ghe_malta.jpg" alt="" style="height:180px; width:250px;">
             <div class="content">
               <a class="title" href="#">GRAND HOTEL EXCELSIOR – MALTA</a>
-              <p class="elipsis3">As the tourism demand increases, this will be a great opportunity to expand the hotel to accommodate more guest. The ten storey building project, an extension for the Grand Hotel Excelsior Malta. 
+              <div class="elipsis3">As the tourism demand increases, this will be a great opportunity to expand the hotel to accommodate more guest. The ten storey building project, an extension for the Grand Hotel Excelsior Malta. 
 This project aims to provide a five star hotel resort in transition from a business hotel which is currently the hotel caters. In line with the extension of the existing building, is redevelopment of the whole site. Providing a more relaxation upgrading and adding more amenities for the guest satisfaction.
 EXHIBITION HALLS
 These two-fold Exhibition Halls is the largest Exhibition Hall in the Grand Hotel Excelsior. It is located between the Excelsior hotel and the historical Bastion wall of Malta. This Mediterranean inspired building similar to the main structure scheme of the hotel. This Exhibition Hall 1 & 2 are designed to accommodate larger volume of guests for major events. Both Exhibition Hall can accommodate 700 guests each event and it has an underground parking.
-These Exhibition Halls will cater social gathering, events, business conference for business tycoons both local and international. The entire Interior of Exhibition Hall looks mesmerizing by its Traditional Mediterranean Design. It is inspired and combine the seventh century Victorian Design and Spanish Mediterranean Architectural elements to contribute space an elegant classic interior. 
-</p>
+These Exhibition Halls will cater social gathering, events, business conference for business tycoons both local and international. The entire Interior of Exhibition Hall looks mesmerizing by its Traditional Mediterranean Design. It is inspired and combine the seventh century Victorian Design and Spanish Mediterranean Architectural elements to contribute space an elegant classic interior.</div>
               <a href="#!" data-modal="modal_gheMalta" class="button">Read More</a>
             </div>
           </div>
@@ -225,9 +224,8 @@ These Exhibition Halls will cater social gathering, events, business conference 
             <img src="image/corporate_office.jpg" alt="" style=" height:190px; width:200px;">
             <div class="content">
               <a class="title" href="#">CORPORATE OFFICE</a>
-              <p class="elipsis">As the business demand increases, this building is specifically designed as the headquarters for the Asia Pacific World Holdings Inc. The ten storey building with roof deck will provide you the best view with stunning 360 degrees panoramic view of the Pacific Ocean and the mountain range of Pagbilao, Quezon.
-The design concept of this building is a bird wings for its building façade treatment by a long vertical and swift element towards the roof deck. Dominant curtain will characterized as distinct essence of the style, generally inspired on the postmodern architecture (1940’s) of free form.
-</p>
+              <div class="elipsis">As the business demand increases, this building is specifically designed as the headquarters for the Asia Pacific World Holdings Inc. The ten storey building with roof deck will provide you the best view with stunning 360 degrees panoramic view of the Pacific Ocean and the mountain range of Pagbilao, Quezon.
+The design concept of this building is a bird wings for its building façade treatment by a long vertical and swift element towards the roof deck. Dominant curtain will characterized as distinct essence of the style, generally inspired on the postmodern architecture (1940’s) of free form.</div>
               <a href="#!" data-modal="modal_corp_office" class="button">Read More</a>
             </div>
           </div>
@@ -237,7 +235,7 @@ The design concept of this building is a bird wings for its building façade tre
             <img src="image/corporate_annex.png" alt="">
             <div class="content">
               <a class="title" href="#">CORPORATE BUILDING – ANNEX</a>
-              <p class="elipsis3">This Annex is designed as a futuristic approach for Office building this century which reconstructs the working environment to a more livable and breathing space, to relieve the minds of the employees which will enhance their working production. With this postmodern architecture that harmonizes the Corporate Building’s design concept. This six storey adjacent medium-rise structure to the Corporate Building with a well-designed Parking structure to exhilarate the work flow from the noise of play and motion of vehicles and provide amenities for the employees connected through an engineered bridge structural design to provide convenience to its community.</p>
+              <div class="elipsis3">This Annex is designed as a futuristic approach for Office building this century which reconstructs the working environment to a more livable and breathing space, to relieve the minds of the employees which will enhance their working production. With this postmodern architecture that harmonizes the Corporate Building’s design concept. This six storey adjacent medium-rise structure to the Corporate Building with a well-designed Parking structure to exhilarate the work flow from the noise of play and motion of vehicles and provide amenities for the employees connected through an engineered bridge structural design to provide convenience to its community.</div>
               <a href="#!" data-modal="modal_corp_annex" class="button">Read More</a>
 
             </div>
@@ -246,7 +244,7 @@ The design concept of this building is a bird wings for its building façade tre
             <img src="image/shop_center.jpg" alt="" style="height:170px; width:200px;">
             <div class="content">
               <a class="title" href="#">SHOPPING CENTER AND RESIDENTIAL CONCEPT</a>
-              <p class="elipsis3">A mix of Mediterranean and Modern architecture to cope up with the current trend in the Philippines. This proposal will not destroy the natural terrain and the beauty of the surroundings. This will bring the urban life to the rural part of Pagbilao, Quezon. It will help to enhance the market value of the properties near the commercial complex. This will open a great advantage to the residents but also to the whole municipality</p>
+              <div class="elipsis3">A mix of Mediterranean and Modern architecture to cope up with the current trend in the Philippines. This proposal will not destroy the natural terrain and the beauty of the surroundings. This will bring the urban life to the rural part of Pagbilao, Quezon. It will help to enhance the market value of the properties near the commercial complex. This will open a great advantage to the residents but also to the whole municipality</div>
               <a href="#!" data-modal="modal_shopcenter" class="button">Read More</a>
             </div>
           </div>
@@ -258,7 +256,7 @@ The design concept of this building is a bird wings for its building façade tre
               <img src="image/manager_house.jpg" alt="">
               <div class="content">
               <a class="title" href="#">THE MANAGER’S HOUSE</a>
-              <p class="elipsis">The official residence of the Expatriate Manager coming from different countries. Originally designed from Hong Kong, the intent of the structure depicts a Mediterranean with Asian inspired furniture offering the guest the best experience of the Filipino Culture. </p>
+              <div class="elipsis">The official residence of the Expatriate Manager coming from different countries. Originally designed from Hong Kong, the intent of the structure depicts a Mediterranean with Asian inspired furniture offering the guest the best experience of the Filipino Culture. </div>
               <a href="#!" data-modal="modal_manager_house" class="button">Read More</a>
               </div>
             </div>
@@ -269,7 +267,7 @@ The design concept of this building is a bird wings for its building façade tre
               <img src="image/exec_housing1.png" alt="" style=" height:170px; width:200px;">
               <div class="content">
               <a class="title" href="#">EXECUTIVE HOUSING</a>
-              <p class="elipsis">This modern classical fusion of residential living offers the best accommodation exclusively for in-house executive directors coming from local and international countries.</p>
+              <div class="elipsis">This modern classical fusion of residential living offers the best accommodation exclusively for in-house executive directors coming from local and international countries.</div>
               <a href="#!" data-modal="modal_exec_housing" class="button">Read More</a>
               </div>
             </div>
@@ -280,7 +278,7 @@ The design concept of this building is a bird wings for its building façade tre
               <img src="image/quezon_seaport.jpg" alt="" style=" height:165px; width:200px;">
               <div class="content">
               <a class="title" href="#">QUEZON INTERNATIONAL SEAPORT</a>
-              <p class="elipsis3">A world class International Seaport with deep water berths and supporting structures that will definitely provide an income-generating center in Quezon Province. This megastructure development strategically located in the province of Pagbilao, Quezon where it is designated as an Industrial zone. It will be constructed on a proposed reclamation area where it will be connected by a bridge from the shore.</p>
+              <div class="elipsis3">A world class International Seaport with deep water berths and supporting structures that will definitely provide an income-generating center in Quezon Province. This megastructure development strategically located in the province of Pagbilao, Quezon where it is designated as an Industrial zone. It will be constructed on a proposed reclamation area where it will be connected by a bridge from the shore.</div>
               <a href="#!" data-modal="modal_quezon_seaport" class="button">Read More</a>
               </div>
             </div>

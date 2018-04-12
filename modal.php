@@ -65,15 +65,25 @@ button.button:hover {
 }
 .elipsis{
    overflow: hidden;
-    display: -webkit-box;
+    display: -webkit-box; 
+    width: 170px; 
     -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;"
+    -webkit-box-orient: vertical;
+    position:relative;
+    line-height:1.4em;
+    /* 3 times the line-height to show 3 lines */
+    height:4.2em;
 }
 .elipsis3{
    overflow: hidden;
     display: -webkit-box;
+    width: 170px; 
     -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;"
+    -webkit-box-orient: vertical;
+    position:relative;
+    line-height:1.4em;
+    /* 3 times the line-height to show 3 lines */
+    height:4.2em;
 }
 </style>
 
