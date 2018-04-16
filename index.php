@@ -60,9 +60,10 @@
       <div class="row"> 
         <div class="col-md-12">
           <div class="banner text-center">
-            <h1 class="wow fadeInDown animated" data-wow-delay=".8s">Great Ocean Lake Development & Management Corporation</h1>
+            <h1 class="wow fadeInDown animated" data-wow-delay=".8s">Great Ocean Lake Development <br> and Management Corporation</h1>
             <div class="scroll">
-              <a href="#works"><i class="fa fa-angle-down wow fadeInUp animated" data-wow-delay="1.2s"></i></a>
+              <!-- <a href="#works"><i class="fa fa-angle-down wow fadeInUp animated" data-wow-delay="1.2s"></i></a> -->
+              <img src="image/header-divider.png" class="wow fadeInUp animated" data-wow-delay="1.2s" width="42000  0" height="1042">
           </div>
         </div>
         </div>
@@ -75,24 +76,24 @@
   <section id="works">
     <div class="container">
       <div class="row">
-        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><span>Projects</span></h1>
+        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">Current<br><span>Projects</span></h1>
         <div class="col-md-7 col-lg-7 grid-left wow fadeInLeft animated" data-wow-delay="1.2s">
           <div class="large">
             <img src="image/ubay front.png" alt="">
             <div class="overlay">
-              <a href="image/ubay_front_large.png" data-lightbox="img1"><i class="fa fa-search"></i></a>
+              <a href="image/ubay_front_large.png" data-lightbox="img1"><h3><font color="white">Ubay Village</font></h3></a>
             </div>
           </div>
           <div class="grid-box">
             <img src="image/ubay_side.png" alt="">
             <div class="overlay">
-               <a href="image/ubay_side_large.png" data-lightbox="img2"><i class="fa fa-search"></i></a>
+               <a href="image/ubay_side_large.png" data-lightbox="img2"><h3><font color="white">Ubay Village</font></h3></a>
             </div>
           </div>
           <div class="grid-box">
             <img src="image/ubay village.png" alt="">
             <div class="overlay">
-               <a href="image/ubay village large.png" data-lightbox="img3"><i class="fa fa-search"></i></a>
+               <a href="image/ubay village large.png" data-lightbox="img3"><h3><font color="white">Ubay Village</font></h3></a>
             </div>
           </div>
         </div>
@@ -100,19 +101,19 @@
           <div class="grid-box large">
             <img src="image/tiki outside.png" alt="">
             <div class="overlay">
-               <a href="image/tiki outside large.png" data-lightbox="img4"><i class="fa fa-search"></i></a>
+               <a href="image/tiki outside large.png" data-lightbox="img4"><h3><font color="white">Tiki</font></h3></a>
             </div>
           </div>
           <div class="grid-box">
             <img src="image/tiki inside.png" alt="">
             <div class="overlay">
-               <a href="image/tiki inside large.png" data-lightbox="img5"><i class="fa fa-search"></i></a>
+               <a href="image/tiki inside large.png" data-lightbox="img5"><h3><font color="white">Tiki</font></h3></a>
             </div>
           </div>
           <div class="grid-box">
             <img src="image/tiki front.png" alt="">
             <div class="overlay">
-              <a href="image/tiki_front_large.png" data-lightbox="img5"><i class="fa fa-search"></i></a>
+              <a href="image/tiki_front_large.png" data-lightbox="img5"><h3><font color="white">Tiki</font></h3></a>
             </div>
           </div>
         </div>
@@ -125,7 +126,9 @@
   <section id="testimonial">
     <div class="container">
       <div class="row">
-        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">Company<br><span>Profile</span></h1>
+        <div class="divide">
+        <img src="image/profile-divider.png" class="wow fadeInDown animated" data-wow-delay="1.2s" width="42000  0" height="1042"></div>
+        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">Our Company</h1>
         <div id="testimonial-carousel" class="carousel slide wow fadeInUp animated" data-ride="carousel" data-wow-delay="1.2s">
           <!-- Indicators -->
           <ol class="carousel-indicators">
@@ -151,7 +154,7 @@
   <section id="blog">
     <div class="container">
       <div class="row">
-        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><span>Ongoing Project</span></h1>
+        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><span>Ongoing Projects</span></h1>
         <div class="col-lg-4 col-md-4 col-sm-8 col-xs-12">
           <div class="blog-large wow fadeInLeft animated"  data-wow-delay="1.2s">
             <img src="image/ghe_phil.jpg" alt="" style=" height:360px; width:400px;">
@@ -209,7 +212,7 @@ The design concept of this building is a bird wings for its building façade tre
         </div>
         <div class="col-md-12">
 
-          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 wow fadeInRight animated" data-wow-delay="1.8s">
+          <div class="col-lg-4 col-md-4 wow fadeInRight animated" data-wow-delay="1.8s">
             <div class="blog-item">
               <img src="image/manager_house.jpg" alt="">
               <div class="content">
@@ -220,7 +223,7 @@ The design concept of this building is a bird wings for its building façade tre
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 wow fadeInRight animated" data-wow-delay="1.8s">
+          <div class="col-lg-4 col-md-4 wow fadeInRight animated" data-wow-delay="1.8s">
             <div class="blog-item">
               <img src="image/exec_housing1.png" alt="" style=" height:170px; width:200px;">
               <div class="content">
@@ -231,7 +234,7 @@ The design concept of this building is a bird wings for its building façade tre
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 wow fadeInRight animated" data-wow-delay="1.8s">
+          <div class="col-lg-4 col-md-4 wow fadeInRight animated" data-wow-delay="1.8s">
             <div class="blog-item">
               <img src="image/quezon_seaport.jpg" alt="" style=" height:165px; width:200px;">
               <div class="content">

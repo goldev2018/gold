@@ -73,6 +73,7 @@ button.button:hover {
     line-height:1.4em;
     /* 3 times the line-height to show 3 lines */
     height:4.2em;
+    color: #cf8f36;
 }
 .elipsis3{
    overflow: hidden;
@@ -84,6 +85,7 @@ button.button:hover {
     line-height:1.4em;
     /* 3 times the line-height to show 3 lines */
     height:4.2em;
+    color: #cf8f36;
 }
 </style>
 
