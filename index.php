@@ -37,14 +37,14 @@
             <a href="#"><img src="logo.png" height="200" width="100" alt="logo"></a>
           </div> </center>
           <div class="pull-right wow fadeInDown animated" data-wow-delay=".2">
-            <div id="menu" data-toggle="offcanvas" data-target=".navmenu" data-canvas="body">
+            <div id="menu" onclick="myFunction()">
               <span>menu</span>
             </div> 
           </div> 
         </div>
-        <div class="sidebar-nav">
+        <div class="sidebar-nav" id="myDIV">
           <!-- navigation start -->
-          <div class="navmenu navmenu-default navmenu-fixed-right offcanvas" style="" id="navigation">
+          <div class="navmenu navmenu-default navmenu-fixed-right fadeInRight animated"  data-wow-delay="1.6s" id="navigation">
             <a href="#"><img src="logo.png" alt="logo"></a>
             <ul class="nav navmenu-nav">
               <li class="active"><a href="#header">Home</a></li>
@@ -63,7 +63,7 @@
             <h1 class="wow fadeInDown animated" data-wow-delay=".8s">Great Ocean Lake Development <br> and Management Corporation</h1>
             <div class="scroll">
               <!-- <a href="#works"><i class="fa fa-angle-down wow fadeInUp animated" data-wow-delay="1.2s"></i></a> -->
-              <img src="image/header-divider.png" class="wow fadeInUp animated" data-wow-delay="1.2s" width="42000  0" height="1042">
+              <img src="image/header-divider.png" class="wow fadeInUp animated" data-wow-delay="1.2s" width="380px">
           </div>
         </div>
         </div>
@@ -127,8 +127,8 @@
     <div class="container">
       <div class="row">
         <div class="divide">
-        <img src="image/profile-divider.png" class="wow fadeInDown animated" data-wow-delay="1.2s" width="42000  0" height="1042"></div>
-        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">Our Company</h1>
+        <img src="image/profile-divider.png" class="wow fadeInDown animated" data-wow-delay="1.2s" width="380px"></div>
+        <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">Our <br><span>Company</span></h1>
         <div id="testimonial-carousel" class="carousel slide wow fadeInUp animated" data-ride="carousel" data-wow-delay="1.2s">
           <!-- Indicators -->
           <ol class="carousel-indicators">

@@ -119,3 +119,26 @@ window.onclick = function(event) {
   }
 }
 </script>
+
+
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myDIV");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+
+<!-- <script type="text/javascript">
+document.getElementById('menu').onclick = function(){
+    if(myDIV.className){
+        document.getElementById('myDIV').className = '';
+    } else {
+        document.getElementById('myDIV').className = 'fade';
+    }
+}
+</script> -->

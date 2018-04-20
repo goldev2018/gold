@@ -101,8 +101,10 @@ img {
 }
 /* Navbar  start */
 #navigation {
-  background: #585858;
-  border: 1px solid #585858;
+  background: rgba(25, 25, 25, .5);
+  border: rgba(25, 25, 25, .5);
+  /*background: #585858;*/
+  /*border: 1px solid #585858;*/
   color: #fff;
   padding-top: 50px;
   text-align: center;
@@ -136,6 +138,9 @@ img {
 }
 /* Navbar End */
 /* Header Section Start */
+/*.sidebar-nav{
+
+}*/
 #header {
   width: 100%;
   /*background: url(../img/backgrounds/banner.jpg);*/
@@ -159,7 +164,7 @@ img {
   margin-top: 50px;
 }
 #header .top-header #menu {
-  opacity: .6;
+  /*opacity: .6;*/
   display: block;
   width: 48px;
   height: 48px;
@@ -168,7 +173,7 @@ img {
   cursor: pointer;
 }
 #header .top-header #menu span {
-  opacity: .3;
+  /*opacity: .3;*/
   background-color: #ffffff;
   display: block;
   font-size: 0px;
@@ -181,7 +186,7 @@ img {
 }
 #header .top-header #menu span:before,
 #header .top-header #menu span:after {
-  opacity: .3;
+  /*opacity: .3;*/
   background: #ffffff;
   content: "";
   height: 100%;
@@ -193,13 +198,13 @@ img {
   width: 100%;
 }
 #header .top-header #menu span:before {
-  opacity:.4;
+  /*opacity:.4;*/
   -webkit-transform: translateY(-300%);
   -moz-transform: translateY(-300%);
   transform: translateY(-300%);
 }
 #header .top-header #menu span:after {
-  opacity: .4;
+  /*opacity: .4;*/
   -webkit-transform: translateY(300%);
   -moz-transform: translateY(300%);
   transform: translateY(300%);
@@ -207,7 +212,7 @@ img {
 #header .top-header #menu:hover span,
 #header .top-header #menu:hover span:after,
 #header .top-header #menu:hover span:before {
-  opacity: 1;
+  /*opacity: 1;*/
   background: #c26905;
 }
 
@@ -227,7 +232,7 @@ img {
   margin: 32px 0px 50px;
 }
 #header .banner .scroll {
-  margin: -140px 0;
+  margin: 0, 0;
 }
 #header .banner .scroll a i {
   font-size: 48px;
@@ -323,7 +328,7 @@ img {
   left: 44%;
   top: 36%;
 }
-#works .overlay {
+#works .overlay { 
   position: absolute;
   width: 100%;
   top: 0;
@@ -357,11 +362,13 @@ img {
   color: #ffffff;
 }
 #testimonial .section-title {
-  color: #ffffff;
+  color: #f8ca74;
 }
-#testimonial .container .divide {
-  margin: -110px 100px;
-  width: 1000px;
+.divide {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 #testimonial blockquote {
   border-left: none;
