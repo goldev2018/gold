@@ -87,6 +87,16 @@ button.button:hover {
     height:4.2em;
     color: #cf8f36;
 }
+/*div#menu {
+opacity:1;
+-webkit-transition: opacity 5;
+-moz-transition: opacity 5s;     
+transition: opacity 5s; 
+}
+
+div#menu.fade {
+opacity:0;
+}*/
 </style>
 
 
