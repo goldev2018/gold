@@ -157,7 +157,7 @@
         <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s"><span>Ongoing Projects</span></h1>
         <div class="col-lg-4 col-md-4 col-sm-8 col-xs-12">
           <div class="blog-large wow fadeInLeft animated"  data-wow-delay="1.2s">
-            <img src="image/ghe_phil.jpg" alt="" style=" height:360px; width:400px;">
+            <img src="image/ghe_phil.png" alt="" style=" height:360px; width:400px;">
             <div class="large">
               <a class="title" href="#">THE GRAND EXCELSIOR HOTEL – PHILIPPINES</a>
               <div class="elipsis3">We aim to introduce the first eminent Five Star Luxury Resort establishment in Pagbilao. We are engage to provide the best luxurious resort in Quezon with specifically designed and well-developed modern facilities. 
