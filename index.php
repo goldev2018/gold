@@ -42,7 +42,7 @@
             </div> 
           </div> 
         </div>
-        <div class="sidebar-nav" id="myDIV">
+        <div class="sidebar-nav" id="myDIV" style="display:none;">
           <!-- navigation start -->
           <div class="navmenu navmenu-default navmenu-fixed-right fadeInRight animated"  data-wow-delay="1.6s" id="navigation">
             <a href="#"><img src="logo.png" alt="logo"></a>
@@ -127,7 +127,7 @@
     <div class="container">
       <div class="row">
         <div class="divide">
-        <img src="image/profile-divider.png" class="wow fadeInDown animated" data-wow-delay="1.2s" width="380px"></div>
+        <img src="image/profile-divider.png" class="wow fadeInDown animated" data-wow-delay="1.2s" width="380px" style="position:absolute;"></div>
         <h1 class="section-title wow fadeInLeft animated" data-wow-delay=".6s">Our <br><span>Company</span></h1>
         <div id="testimonial-carousel" class="carousel slide wow fadeInUp animated" data-ride="carousel" data-wow-delay="1.2s">
           <!-- Indicators -->
