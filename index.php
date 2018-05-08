@@ -210,7 +210,7 @@ The design concept of this building is a bird wings for its building façade tre
             </div>
           </div>
         </div>
-        <div class="col-md-12">
+        <!-- <div class="col-md-12"> -->
 
           <div class="col-lg-4 col-md-4 wow fadeInRight animated" data-wow-delay="1.8s">
             <div class="blog-item">
@@ -244,7 +244,7 @@ The design concept of this building is a bird wings for its building façade tre
               </div>
             </div>
           </div>
-        </div>
+        <!-- </div> -->
       </div>
     </div>
   </section>
