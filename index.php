@@ -81,19 +81,19 @@
           <div class="large">
             <img src="image/ubay front.png" alt="">
             <div class="overlay">
-              <a href="image/ubay_front_large.png" data-lightbox="img1"><h3><font color="white">Ubay Village</font></h3></a>
+              <a href="image/ubay_front_large.png" data-lightbox="img1" style="margin-left:-30px;"><h3><font color="white">Ubay Village</font></h3></a>
             </div>
           </div>
           <div class="grid-box">
             <img src="image/ubay_side.png" alt="">
             <div class="overlay">
-               <a href="image/ubay_side_large.png" data-lightbox="img2"><h3><font color="white">Ubay Village</font></h3></a>
+               <a href="image/ubay_side_large.png" data-lightbox="img2" style="margin-left:-30px;"><h3><font color="white">Ubay Village</font></h3></a>
             </div>
           </div>
           <div class="grid-box">
             <img src="image/ubay village.png" alt="">
             <div class="overlay">
-               <a href="image/ubay village large.png" data-lightbox="img3"><h3><font color="white">Ubay Village</font></h3></a>
+               <a href="image/ubay village large.png" data-lightbox="img3" style="margin-left:-30px;"><h3><font color="white">Ubay Village</font></h3></a>
             </div>
           </div>
         </div>
